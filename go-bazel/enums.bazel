@@ -8,6 +8,6 @@ load(
 
 go_proto_library(
     name = "enums_go_proto",
-    importpath = "google.golang.org/genproto/googleapis/ads/googleads/v11/enums",
+    importpath = "google.golang.org/genproto/googleapis/ads/googleads/VERSION/enums",
     protos = [":enums_proto"],
 )

@@ -8,6 +8,6 @@ load(
 
 go_proto_library(
     name = "resources_go_proto",
-    importpath = "google.golang.org/genproto/googleapis/ads/googleads/v11/resources",
+    importpath = "google.golang.org/genproto/googleapis/ads/googleads/VERSION/resources",
     protos = [":resources_proto"],
 )
