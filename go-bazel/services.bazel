@@ -9,6 +9,6 @@ load(
 go_proto_library(
     name = "services_go_proto",
     compilers = ["@io_bazel_rules_go//proto:go_grpc"],
-    importpath = "google.golang.org/genproto/googleapis/ads/googleads/v11/services",
+    importpath = "google.golang.org/genproto/googleapis/ads/googleads/VERSION/services",
     protos = [":services_proto"],
 )
