@@ -21,7 +21,7 @@
 package resources
 
 import (
-	common "github.com/fresh8/go-genproto-googleads/pb/v11/common"
+	common "github.com/fresh8gaming/go-genproto-googleads/pb/v11/common"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"

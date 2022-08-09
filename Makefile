@@ -1,4 +1,4 @@
-PKG := github.com/fresh8/go-genproto-googleads
+PKG := github.com/fresh8gaming/go-genproto-googleads
 GOOGLE_PROTO := google.golang.org/genproto/googleapis/ads/googleads
 
 TARGETS := v11

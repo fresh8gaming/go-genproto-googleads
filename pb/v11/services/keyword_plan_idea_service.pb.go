@@ -22,8 +22,8 @@ package services
 
 import (
 	context "context"
-	common "github.com/fresh8/go-genproto-googleads/pb/v11/common"
-	enums "github.com/fresh8/go-genproto-googleads/pb/v11/enums"
+	common "github.com/fresh8gaming/go-genproto-googleads/pb/v11/common"
+	enums "github.com/fresh8gaming/go-genproto-googleads/pb/v11/enums"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"

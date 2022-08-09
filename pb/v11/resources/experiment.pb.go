@@ -21,8 +21,8 @@
 package resources
 
 import (
-	common "github.com/fresh8/go-genproto-googleads/pb/v11/common"
-	enums "github.com/fresh8/go-genproto-googleads/pb/v11/enums"
+	common "github.com/fresh8gaming/go-genproto-googleads/pb/v11/common"
+	enums "github.com/fresh8gaming/go-genproto-googleads/pb/v11/enums"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"

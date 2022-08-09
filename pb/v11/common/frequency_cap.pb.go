@@ -21,7 +21,7 @@
 package common
 
 import (
-	enums "github.com/fresh8/go-genproto-googleads/pb/v11/enums"
+	enums "github.com/fresh8gaming/go-genproto-googleads/pb/v11/enums"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

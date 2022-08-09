@@ -22,7 +22,7 @@ package services
 
 import (
 	context "context"
-	common "github.com/fresh8/go-genproto-googleads/pb/v11/common"
+	common "github.com/fresh8gaming/go-genproto-googleads/pb/v11/common"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"

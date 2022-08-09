@@ -46,7 +46,7 @@
 //
 //  req := &servicespb.MutateAccountBudgetProposalRequest{
 //  	// TODO: Fill request struct fields.
-//  	// See https://pkg.go.dev/github.com/fresh8/go-genproto-googleads/pb/v11/services#MutateAccountBudgetProposalRequest.
+//  	// See https://pkg.go.dev/github.com/fresh8gaming/go-genproto-googleads/pb/v11/services#MutateAccountBudgetProposalRequest.
 //  }
 //  resp, err := c.MutateAccountBudgetProposal(ctx, req)
 //  if err != nil {
@@ -65,7 +65,7 @@
 //
 // For information about setting deadlines, reusing contexts, and more
 // please visit https://pkg.go.dev/cloud.google.com/go.
-package googleads // import "github.com/fresh8/go-genproto-googleads/v11"
+package googleads // import "github.com/fresh8gaming/go-genproto-googleads/v11"
 
 import (
 	"context"

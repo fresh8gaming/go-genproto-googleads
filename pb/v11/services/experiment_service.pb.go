@@ -22,7 +22,7 @@ package services
 
 import (
 	context "context"
-	resources "github.com/fresh8/go-genproto-googleads/pb/v11/resources"
+	resources "github.com/fresh8gaming/go-genproto-googleads/pb/v11/resources"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	longrunning "google.golang.org/genproto/googleapis/longrunning"
 	status "google.golang.org/genproto/googleapis/rpc/status"
